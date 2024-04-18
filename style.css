@@ -118,7 +118,7 @@ body{
   font-style: normal;
   margin: 20px;
   -webkit-font-smoothing: antialiased;
-  line-height: 48px;
+  line-height: 50px;
   font-optical-sizing: auto;
 }
 
@@ -130,9 +130,7 @@ body{
 .rodape{
   color: #F3C677;
   text-align: center;
-  padding-top: 20%;
-  position: relative;
-  top: 290px;
+  padding-top: 10%;
 }
 
 .rodape h4{
